@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PA-303-7-1/PA-303-7-1.iml" filepath="$PROJECT_DIR$/PA-303-7-1/PA-303-7-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA 303.7.1/PA 303.7.1.iml" filepath="$PROJECT_DIR$/PA 303.7.1/PA 303.7.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA 303.7.2/PA 303.7.2.iml" filepath="$PROJECT_DIR$/PA 303.7.2/PA 303.7.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice Assignments.iml" filepath="$PROJECT_DIR$/Practice Assignments.iml" />
     </modules>
   </component>
